@@ -22,7 +22,7 @@ Yes, Sure, Okay, Of course, My pleasure, No problem, Certainly dan masih banyak 
 # Negative Answers To Request
 Sorry, No, I’m sorry I can’t, Not now
 
-# Contoh Dialog Polite Request
+# Example - Dialog Polite Request
 Anita: Could I borrow your camera?
 Andre: Sure, why not.
 Anita: Thank you, that’s really nice of you.
